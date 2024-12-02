@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/flower_logo.png" alt="Flower Logo" width="200">
+  <img src="https://flower.dev/images/logo.svg" alt="Flower Logo" width="200">
 </p>
 # 🌼 Federated Learning with Flower
 
