@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://flower.dev/images/logo.svg" alt="Flower Logo" width="200">
-</p>
-# 🌼 Federated Learning with Flower
+
+## 🌼 Federated Learning with Flower
 
 Welcome to the **Flower Federated Learning Project**! 
 This repository demonstrates the implementation of a federated learning system using the [Flower framework](https://flower.dev/). Federated learning enables collaborative model training across decentralized devices while ensuring data privacy.
