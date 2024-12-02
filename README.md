@@ -14,7 +14,6 @@ This repository demonstrates the implementation of a federated learning system u
 
 - Python 3.8+
 - Flower (`pip install flwr`)
-- Other dependencies (see [requirements.txt](./requirements.txt))
 
 ## 📂 Project Structure
 
