@@ -1,7 +1,10 @@
-# Flower_federated_learning
+<p align="center">
+  <img src="assets/flower_logo.png" alt="Flower Logo" width="200">
+</p>
 # 🌼 Federated Learning with Flower
 
-Welcome to the **Flower Federated Learning Project**! This repository demonstrates the implementation of a federated learning system using the [Flower framework](https://flower.dev/). Federated learning enables collaborative model training across decentralized devices while ensuring data privacy.
+Welcome to the **Flower Federated Learning Project**! 
+This repository demonstrates the implementation of a federated learning system using the [Flower framework](https://flower.dev/). Federated learning enables collaborative model training across decentralized devices while ensuring data privacy.
 
 ## 🚀 Features
 
@@ -21,9 +24,3 @@ Welcome to the **Flower Federated Learning Project**! This repository demonstrat
 - `requirements.txt`: List of required libraries.
 - Additional files and resources for running the project.
 
-## 📖 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flower-federated-learning.git
-   cd flower-federated-learning
